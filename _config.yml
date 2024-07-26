@@ -19,16 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: ShrimpAI 
-email: info@shrimpai.io
+email: kwkenyon@hey.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  The homebase for ShrimpAI 
+  The homebase for ShrimpAI
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: shrimp.ai 
-github_username: kvkenyon 
+twitter_username: theshrimpai 
+github_username:  kvkenyon 
 
 # Build settings
-theme: minima
+theme: minima 
 plugins:
   - jekyll-feed
 
