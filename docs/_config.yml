@@ -21,9 +21,9 @@
 title: ShrimpAI 
 email: info@shrimpai.io
 description: >- # this means to ignore newlines until "baseurl:"
-A homebase for ShrimpAI on the web.
+  The homebase for ShrimpAI 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://shrimpai.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shrimp.ai 
 github_username: kvkenyon 
 
